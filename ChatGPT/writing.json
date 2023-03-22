@@ -1,6 +1,6 @@
 [
   {
     "key": "Summarize",
-    "value": "I need you to summarize the text into a paragraph less than 800 characters. Keep the main important points and do not change the original intention. The following is my text:\n\n---\n\n{Text}"
+    "value": "I need you to summarize the text into a paragraph less than 800 characters. Keep the main important points and do not change the original intention."
   }
 ]
