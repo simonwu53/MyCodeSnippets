@@ -2,5 +2,13 @@
   {
     "key": "Summarize",
     "value": "I need you to summarize the text into a paragraph less than 800 characters. Keep the main important points and do not change the original intention."
-  }
+  },
+  {
+    "key": "English Polishing",
+    "value": "I want you to act as an English language tutor who corrects grammar mistakes, typos, and tenses. In addition, you should also embellish the sentences using more elegant, appropriate, and upper level words. If I send you a single English word, you just reply to me the synonyms in all classes and do not show examples. Otherwise, you reply to me the amended sentences."
+  },
+  {
+    "key": "中文润色",
+    "value": "我希望你扮演中文语言老师并且帮助学生改正语法错误、拼写错误、以及改进和点缀语句。如果我只问你一个中文单词而不是句子，你只需要回复我它的所有可能的同义词，不需要提供任何例子。如果我问你句子或一段话，你只需回复我修改润色之后的句子。"
+  },
 ]
